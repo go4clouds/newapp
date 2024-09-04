@@ -18,6 +18,6 @@ spec:
         memory: "512Mi"
       requests:
         cpu: "250m"
-        memory: "256Mi"clear
+        memory: "256Mi"
 
 
